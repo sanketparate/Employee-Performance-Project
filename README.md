@@ -1,6 +1,6 @@
 # Employee Performance Project
 
-# **INX Future Inc**
+**INX Future Inc**
 
 INX Future Inc , (referred as INX ) , is one of the leading data analytics and automation solutions provider with over 15 years of global business presence. INX is consistently rated as top 20 best employers past 5 years. INX human resource policies are considered as employee friendly and widely perceived as best practices in the industry.
 
