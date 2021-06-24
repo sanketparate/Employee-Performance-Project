@@ -45,9 +45,11 @@ Significant Correlation exists between the following features:
 </ul>
 
 <b> Model Performance</b>
-<li>XG Boost Classifier performed well and gives an accuracy of 93.39</li>
+<ul>
+  <li>XG Boost Classifier performed well and gives an accuracy of 93.39</li>
+</ul>
 
-<b>Feature Importance</b>
+<b> Feature Importance</b>
 Top 3 feature affecting the Employee Performance:
 <ul>
   <li>YearWithCurrManager</li>
@@ -64,12 +66,3 @@ Top 3 feature affecting the Employee Performance:
 <li>BusinessTravelFrequency ‘Travel_Rarely’ employees have the best performance so we want to recommend the Travel_Rarely employees.</li>
 <li>Further data to be collected on factors impacting Environment Satisfaction and Work Life Balance with people of Experience less than 3 years.</li>
 </ol>
-
-
-
-
-
-
-
-
-
