@@ -46,7 +46,6 @@ Significant Correlation exists between the following features:
 
 <b> Model Performance</b>
 <li>XG Boost Classifier performed well and gives an accuracy of 93.39</li>
-![image](https://user-images.githubusercontent.com/35792446/123278207-6120a380-d524-11eb-9eec-c6f5864e5de3.png)
 
 <b>Feature Importance</b>
 Top 3 feature affecting the Employee Performance:
@@ -55,7 +54,7 @@ Top 3 feature affecting the Employee Performance:
   <li>Gender</li>
   <li>EmpWorkLifeBalance</li>
 </ul>
-![image](https://user-images.githubusercontent.com/35792446/123278469-9927e680-d524-11eb-8604-b1b83764b8c3.png)
+
 
 <b>Recommendations:</b>
 <ol>
