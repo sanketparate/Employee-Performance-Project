@@ -10,3 +10,24 @@ CEO, Mr. Brain, knows the issues but concerned to take any actions in penalizing
 
 Mr. Brain decided to initiate a data science project , which analyses the current employee data and find the core underlying causes of this performance issues. Mr. Brain, being a data scientist himself, expects the findings of this project will help him to take right course of actions. He also expects a clear indicators of non performing employees, so that any penalization of non-performing employee, if required, may not significantly affect other employee morals.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Major Findings:**
+
+# Low Performance
+<ul>
+  <li>Sales Department has the maximum no. of low performance employees.</li>
+  <li>Sales Executive Role has the lowest ratings.</li>
+</ul>
+
+# High Performance
+<ul>
+  <li>Development Department has maximum no. of high performing employees.</li>
+  <li>Developer Role has the highest ratings.</li>
+</ul>
+
+![image](https://user-images.githubusercontent.com/35792446/123276304-ae037a80-d522-11eb-84bf-a72ca2d636a2.png)
+![image](https://user-images.githubusercontent.com/35792446/123276341-b52a8880-d522-11eb-8e0c-c378547c53a9.png)
+
+
+
